@@ -1,0 +1,15 @@
+{
+    "title": "The Customizer Project",
+    "baseURL": "https:\/\/widgets.customizerproji.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758799",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "customizerproji.com"
+    }
+}
