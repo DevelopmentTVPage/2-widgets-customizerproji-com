@@ -21,7 +21,7 @@
     ".widget-title": {
       "widget_title_font_size": "58px",
       "widget_title_font_weight": "600",
-      "widget_title_color": "red",
+      "widget_title_color": "#ff0000",
       "widget_title_text_align": "center",
       "widget_title_padding": "10px 0",
       "widget_title_margin": "0px",
