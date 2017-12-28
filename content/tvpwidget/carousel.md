@@ -16,7 +16,7 @@
         ".widget": {
             "widget_background_color": "#ff00ff",
             "widget_padding": "10px",
-            "widget_border": "8px solid red"
+            "widget_border": "none"
         },
         ".widget-title": {
             "widget_title_font_size": "24px",
