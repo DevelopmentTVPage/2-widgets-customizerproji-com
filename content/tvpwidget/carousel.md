@@ -19,7 +19,7 @@
             "widget_border": "8px solid red"
         },
         ".widget-title": {
-            "widget_title_font_size": "8px",
+            "widget_title_font_size": "24px",
             "widget_title_font_weight": "600",
             "widget_title_color": "#ff0000",
             "widget_title_text_align": "center",
