@@ -14,7 +14,7 @@
     "layout": "bootstrap",
     "css": {
         ".widget": {
-            "widget_background_color": "#ff00ff",
+            "widget_background_color": "#ffffff",
             "widget_padding": "10px",
             "widget_border": "none"
         },
