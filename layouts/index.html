@@ -1,0 +1,30 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    </head>
+    <body>
+      <script>
+        (function(d, s) {
+          __TVPage__ = window.__TVPage__ || {};
+          __TVPage__.config = __TVPage__.config || {};
+          __TVPage__.config['carousel'] = {
+            targetEl : 'carousel',
+            channel: {
+              id: '66133904'
+            }
+          };
+          
+          var js = d.createElement(s),
+          fjs = d.getElementsByTagName(s)[0];
+          js.src = '{{ "/tvpwidget/carousel/" | absURL }}';
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script'));
+        </script>
+        <div id="carousel"></div>
+    </body>
+</html>
