@@ -32,7 +32,7 @@
             "video_item_padding": "10px",
             "video_item_background_color": "#008000",
             "video_item_border": "3px solid white",
-            "video_item_border_radius": "10px",
+            "video_item_border_radius": "10%",
             "video_item_color": "#FFFFFF",
             "video_item_font_weight": "600",
             "video_item_font_size": "20px",
