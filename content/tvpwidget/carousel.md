@@ -13,13 +13,13 @@
     "channelId": "66133904",
     "layout": "bootstrap",
     "css": {
-        ".widget": {
+        ".widget-body": {
             "widget_background_color": "#ff00ff",
-            "widget_padding_top": "10px",
-            "widget_padding_right": "10px",
-            "widget_padding_bottom": "10px",
-            "widget_padding_left": "10px",
-            "widget_border_width": "8px",
+            "widget_padding_top": "0",
+            "widget_padding_right": "0",
+            "widget_padding_bottom": "0",
+            "widget_padding_left": "0",
+            "widget_border_width": "8",
             "widget_border_style": "solid",
             "widget_border_color": "red"
         },
