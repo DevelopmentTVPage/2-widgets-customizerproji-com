@@ -13,7 +13,7 @@
     "channelId": "66133904",
     "layout": "bootstrap",
     "css": {
-        ".widget": {
+        "body": {
             "widget_background_color": "#ff00ff",
             "widget_padding_top": "10px",
             "widget_padding_right": "10px",
