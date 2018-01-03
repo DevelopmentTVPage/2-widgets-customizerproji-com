@@ -19,7 +19,7 @@
             "widget_padding_right": "0",
             "widget_padding_bottom": "0",
             "widget_padding_left": "0",
-            "widget_border_width": "3",
+            "widget_border_width": "8",
             "widget_border_style": "solid",
             "widget_border_color": "red"
         },
