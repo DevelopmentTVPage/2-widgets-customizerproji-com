@@ -65,6 +65,13 @@
             "video_item_image_icon_background_color": "#ff7f50",
             "video_item_image_icon_color": "#0000ff"
         },
+        ".video-item-image-icon:hover": {
+            "parentSelector": "body:not(.mobile) .video:hover",
+            "properties":{
+                "video_item_image_icon_background_color": "red",
+                "video_item_image_icon_color": "green"
+            }
+        },
         ".video-item-image-overlay": {
             "video_item_image_overlay_background_color": "#ff003d",
             "video_item_image_overlay_opacity": "0.5"
